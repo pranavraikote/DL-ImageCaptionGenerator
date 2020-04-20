@@ -12,7 +12,7 @@ Download and install the following module: <br>
 4)matplotlib - pip install matplotlib <br>
 
 Note:
-1. Download the [Flickr8k_Dataset](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip), [Flickr_text](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip), [glove.6B](http://nlp.stanford.edu/data/glove.6B.zip) datasets and unzip before continuing with the implementation
+1. Download the [Flickr8k_Dataset](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip), [Flickr_text](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip) and [glove.6B](http://nlp.stanford.edu/data/glove.6B.zip) datasets and unzip before continuing with the implementation
 
 # Author
 Pranav Raikote
